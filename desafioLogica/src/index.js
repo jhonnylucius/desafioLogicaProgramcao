@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Superman";
-let xp = 3000;
+let xp = 10000;
 let nivel;
 
 if (xp <= 1000) {
